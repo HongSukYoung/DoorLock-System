@@ -1,5 +1,3 @@
-// 진짜 텀프로젝트
-
 #include "LCD.h"
 #define  F_CPU 14745600UL
 #include <avr/io.h>
