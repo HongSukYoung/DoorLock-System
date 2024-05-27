@@ -15,7 +15,4 @@
 ![image](https://github.com/HongSukYoung/DoorLock-System/assets/145235252/78481f1d-c77e-42e2-a2dd-6f4c36b2c6b7)
 ![image](https://github.com/HongSukYoung/DoorLock-System/assets/145235252/70560458-20e0-464e-a649-621959f8b8fb)
 ![image](https://github.com/HongSukYoung/DoorLock-System/assets/145235252/f001507e-b421-4143-be60-3ee4605501ab)
-![image](https://github.com/HongSukYoung/DoorLock-System/assets/145235252/6f874f4c-a544-4ad5-849f-e4fa33435dff)
-![image](https://github.com/HongSukYoung/DoorLock-System/assets/145235252/4b93a9ca-3869-4230-98b8-f29802571650)
-![image](https://github.com/HongSukYoung/DoorLock-System/assets/145235252/c593dafe-d281-4226-8077-30f2e3a1ed63)
 ![image](https://github.com/HongSukYoung/DoorLock-System/assets/145235252/13e571cc-771c-4765-9b84-cd209b1c58b5)
